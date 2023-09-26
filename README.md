@@ -20,7 +20,9 @@ Thanks for visiting my GitHub profile! Feel free to explore my repositories and 
 
 Languages:
 
-[![Python Logo](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/) [![Google Cloud Platform Logo]([https://example.com/your-hosted-image.png](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg))](https://cloud.google.com/)
+[![Python Logo](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/)
+
+
 
 
 
