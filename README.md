@@ -27,4 +27,5 @@ Languages:
 Connect with me:
 ### Connect with Me
 
-[![LinkedIn](/path/to/linkedin-icon.png)](https://www.linkedin.com/in/sarasalehi7/)
+[![LinkedIn](https://raw.githubusercontent.com/your-username/your-repo/main/path/to/linkedin-icon.png)](https://www.linkedin.com/in/sarasalehi7/)
+ 
