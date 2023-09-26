@@ -33,6 +33,6 @@ Languages:
 
 Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/sara-zeus/your-repo/main/path/to/linkedin-icon.png)](https://www.linkedin.com/in/sarasalehi7/)
+[![LinkedIn](https://images.app.goo.gl/U1PK2kdVbUQjyAgc9)](https://www.linkedin.com/in/sarasalehi7/)
 
  
