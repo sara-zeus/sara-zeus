@@ -33,6 +33,6 @@ Languages:
 
 Connect with me:
 
-[![LinkedIn](https://images.app.goo.gl/U1PK2kdVbUQjyAgc9.png)](https://www.linkedin.com/in/sarasalehi7/)
+[![LinkedIn]([[https://images.app.goo.gl/U1PK2kdVbUQjyAgc9.png](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg)](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg))](https://www.linkedin.com/in/sarasalehi7/)
 
  
