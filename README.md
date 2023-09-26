@@ -20,7 +20,8 @@ Thanks for visiting my GitHub profile! Feel free to explore my repositories and 
 
 Languages:
 
-[![Python Logo](https://images.app.goo.gl/8z3awqsKGV6XiFZT6)](https://www.python.org)
+[![Python Logo](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/)
+
 
 
 Connect with me:
