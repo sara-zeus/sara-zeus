@@ -18,22 +18,3 @@ I'm Sarooshka, a passionate data engineer and data scientist with a background i
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about all things data. 🚀
 
-Languages:
-
-[![Python Logo](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/)
-
-[![Python Logo](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/)
-
-
-
-
-
-
-
-
-
-Connect with me:
-
-[![LinkedIn]([[https://images.app.goo.gl/U1PK2kdVbUQjyAgc9.png](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg)](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg))](https://www.linkedin.com/in/sarasalehi7/)
-
- 
