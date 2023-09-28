@@ -19,5 +19,5 @@ I'm Sarooshka, a passionate data engineer and data scientist with a background i
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about all things data. 🚀
 
 
-[![Video Title](https://www.example.com/video-thumbnail.jpg)](https://www.youtube.com/shorts/_W988Bti8fU)
 
+[Google Cloud Platform](https://cloud.google.com/)
