@@ -16,7 +16,8 @@ I'm Sarooshka, a passionate data engineer and data scientist with a background i
 
 ⚡ Fun Fact: I'm not just passionate about data; I'm also a music producer and a Capoeirista.
 
+
+
+
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about all things data. 🚀
-
-
-<iframe src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="480" height="480" frameborder="0" class="giphy-embed" allowfullscreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">via GIPHY</a></p>
+![Alt Text]([https://example.com/path/to/your](https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif)https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif)
