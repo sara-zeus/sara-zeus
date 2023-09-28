@@ -23,4 +23,4 @@ Thanks for visiting my GitHub profile! Feel free to explore my repositories and 
 
 
 
-[View Giphy Animation](https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif)
+<img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Giphy Animation">
