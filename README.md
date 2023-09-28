@@ -18,14 +18,5 @@ I'm Sarooshka, a passionate data engineer and data scientist with a background i
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about all things data. 🚀
 
-<span style="color: #4285F4;">This text is in GCP blue color.</span>
-<span style="color: #4285F4;">This text is in GCP blue color.</span>
-<div style="background-color: #4285F4; color: white;">This div has a GCP blue background.</div>
 
-`<code style="color: #4285F4;">This is GCP blue code.</code>`
-<link rel="stylesheet" type="text/css" href="styles.css">
-<span class="gcp-blue">This text is in GCP blue color.</span>
-.gcp-blue {
-    color: #4285F4;
-}
-
+![Alt Text][(https://www.example.com/path-to-your-gif.gif](https://x.com/parmardarshil07/status/1623947527019180035?s=20)https://x.com/parmardarshil07/status/1623947527019180035?s=20)
