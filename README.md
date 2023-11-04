@@ -1,4 +1,4 @@
-### Hi there I'm Sarah 👋
+### Hi there I'm Sara 👋
 
 A passionate data engineer and data scientist with a background in electrical engineering. Welcome to my GitHub profile!
 
