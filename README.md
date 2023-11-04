@@ -11,8 +11,8 @@ A passionate data engineer and data scientist with a background in electrical en
 Check out my portfolio Website: 
 
 
+[![Circular Portfolio Image](images/circular-gif.gif)](https://sara-zeus.github.io)
 
-[![Portfolio](https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif)](https://sara-zeus.github.io)
 
 👯 I'm eager to collaborate on data engineering and data science projects. If you have an exciting project or idea, feel free to reach out to me.
 
