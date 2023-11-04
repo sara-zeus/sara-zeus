@@ -27,8 +27,8 @@ Thanks for visiting my GitHub profile! Feel free to explore my repositories and 
 <br>
 
 
+[![Portfolio](images/your-gif-filename.gif)](https://github.com/sara-zeus)
 
-[![Portfolio](<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>]([https://your-portfolio-website.com](https://sara-zeus.github.io))
 
 
 
