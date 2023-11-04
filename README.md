@@ -35,10 +35,6 @@ Thanks for visiting my GitHub profile! Feel free to explore my repositories and 
 <br>
 
 
-
-
-
-
 [![Portfolio](images/your-gif-filename.gif)](https://github.com/sara-zeus)
 
 
