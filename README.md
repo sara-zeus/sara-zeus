@@ -1,6 +1,6 @@
 ### Hi there I'm Sara 👋
 
-### A passionate data engineer and data scientist with a background in electrical engineering. Welcome to my GitHub profile!
+A passionate data engineer and data scientist with a background in electrical engineering. Welcome to my GitHub profile!
 
 🔭 I'm currently enrolled in a Data Science Bootcamp Diploma program, where I'm honing my skills in data analysis, machine learning, and data engineering.
 
