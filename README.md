@@ -27,6 +27,9 @@ Thanks for visiting my GitHub profile! Feel free to explore my repositories and 
 <br>
 
 
+
+[![Portfolio](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)](https://github.com/sara-zeus)
+
 [![Portfolio](images/your-gif-filename.gif)](https://github.com/sara-zeus)
 
 
