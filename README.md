@@ -4,7 +4,12 @@ A passionate data engineer and data scientist with a background in electrical en
 
 🔭 I'm currently enrolled in a Data Science Bootcamp Diploma program, where I'm honing my skills in data analysis, machine learning, and data engineering.
 
-🌱 I'm on a continuous journey of learning and self-improvement. Right now, I'm diving deep into data engineering concepts and exploring the latest trends in data science. Check out my portfolio Website [here](https://sara-zeus.github.io)
+🌱 I'm on a continuous journey of learning and self-improvement. Right now, I'm diving deep into data engineering concepts and exploring the latest trends in data science. 
+
+
+
+Check out my portfolio Website: 
+[![Portfolio](https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif)](https://sara-zeus.github.io)
 
 👯 I'm eager to collaborate on data engineering and data science projects. If you have an exciting project or idea, feel free to reach out to me.
 
@@ -28,7 +33,7 @@ Thanks for visiting my GitHub profile! Feel free to explore my repositories and 
 
 
 
-[![Portfolio](https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif)](https://sara-zeus.github.io)
+
 
 
 [![Portfolio](images/your-gif-filename.gif)](https://github.com/sara-zeus)
