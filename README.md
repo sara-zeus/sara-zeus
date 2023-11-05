@@ -12,6 +12,8 @@ A data engineer and scientist with an electrical engineering background, current
 ⚡ Fun Fact: Also a music producer and Capoeirista. Feel free to explore my repositories and connect for all things data! 🚀
 
 [![Portfolio](images/your-gif-filename.gif)](https://github.com/sara-zeus)
+Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about all things data. 🚀
+
 
 
 
@@ -24,4 +26,3 @@ A data engineer and scientist with an electrical engineering background, current
 
 <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Giphy Animation">
 
-Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about all things data. 🚀
