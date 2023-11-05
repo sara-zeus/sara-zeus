@@ -15,5 +15,6 @@
 
 <br> 
 
-<img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="300">
-
+<div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden;">
+    <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
