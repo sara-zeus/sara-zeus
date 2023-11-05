@@ -19,7 +19,8 @@ A data engineer and scientist with an electrical engineering background, current
 <br>
 
 
-![Profile Photo](IMG_2535)
+![Profile Photo](https://github.com/your-username/your-repository/blob/main/IMG_2535.jpg)
+  
 
 
 
