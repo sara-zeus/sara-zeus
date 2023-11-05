@@ -24,8 +24,6 @@
 - 🚀 Let's chat about all things data! Feel free to explore my repositories.
 
 
-[Portfolio](https://sara-zeus.github.io) | [LinkedIn](https://www.linkedin.com/in/sarasalehi7/)
-
 
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about all things data. ☺️
