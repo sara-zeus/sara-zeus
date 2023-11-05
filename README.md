@@ -14,9 +14,6 @@ A data engineer and scientist with an electrical engineering background, current
 
 
 
-
-Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about all things data. 🚀
-
 <br>
 
 
@@ -27,3 +24,5 @@ Thanks for visiting my GitHub profile! Feel free to explore my repositories and 
 
 
 <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Giphy Animation">
+
+Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about all things data. 🚀
