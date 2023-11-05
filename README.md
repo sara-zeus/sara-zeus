@@ -15,7 +15,7 @@
 
 - 🧬 Data engineer and scientist with an electrical engineering background.
 - 🎶 Also a music producer and Capoeirista.
-- 📚 Love exploring the intersections of technology and creativity.
+- ✈️ Have traveled to more than 50 countries, speak 4 languages, and visit Europe every year, staying for months.
 
 ## 💬 Get in Touch
 
