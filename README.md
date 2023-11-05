@@ -11,4 +11,9 @@
 [![Portfolio](images/your-gif-filename.gif)](https://github.com/sara-zeus)
 **Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about all things data. ☺️**
 
+
+
+<br> 
+
+
 **![Giphy Animation](https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif)**
