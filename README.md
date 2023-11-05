@@ -3,6 +3,8 @@
 
 
 ### Hi there, I'm Sara! 👋🏻👩🏻‍💻
+![Profile Photo](https://example.com/path-to-your-image.jpg)
+
 
 A data engineer and scientist with an electrical engineering background, currently expanding skills at a Data Science Bootcamp. Passionate about data, seeking collaboration and guidance in the field.
 
@@ -17,7 +19,8 @@ A data engineer and scientist with an electrical engineering background, current
 <br>
 
 
-[![Portfolio](images/your-gif-filename.gif)](https://github.com/sara-zeus)
+![Profile Photo](https://github.com/your-username/your-repository/blob/main/images/your-image.jpg)
+
 
 
 
