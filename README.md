@@ -15,5 +15,5 @@
 
 <br> 
 
-<img src="https://github.com/sara-zeus/sara-zeus/raw/main/7A2DF9D2-B3CA-4E54-9DC3-951132006F3C%202.jpg" width="300">
+<img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="400">
 
