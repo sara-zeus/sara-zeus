@@ -5,11 +5,27 @@
 
 ![Profile Picture](https://github.com/sara-zeus/sara-zeus/raw/main/7A2DF9D2-B3CA-4E54-9DC3-951132006F3C%202.jpg)
 
-**A data engineer and scientist with an electrical engineering background, currently expanding skills at a Data Science Bootcamp. Passionate about data, seeking collaboration and guidance in the field.**
+## 👩🏻‍💻 What I'm Currently Doing
+
+- 👩🏻‍💻 Working on a Data Science Bootcamp to expand my skills.
+- 📊 Passionate about data engineering and analytics.
+- 🌐 Seeking collaboration and guidance in the field.
+
+## 🚀 Who I Am
+
+- 🧬 Data engineer and scientist with an electrical engineering background.
+- 🎶 Also a music producer and Capoeirista.
+- 📚 Love exploring the intersections of technology and creativity.
+
+## 💬 Get in Touch
+
+- 🌐 Explore my [Portfolio](https://sara-zeus.github.io).
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/sarasalehi7/).
+- 🚀 Let's chat about all things data! Feel free to explore my repositories.
+
 
 [Portfolio](https://sara-zeus.github.io) | [LinkedIn](https://www.linkedin.com/in/sarasalehi7/)
 
-⚡ Fun Fact: Also a music producer and Capoeirista. Feel free to explore my repositories and connect for all things data! 🚀
 
 [![Portfolio](images/your-gif-filename.gif)](https://github.com/sara-zeus)
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about all things data. ☺️
