@@ -15,8 +15,11 @@
 
 <br> 
 
-<div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden;">
-    <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" style="width: 100%; height: 100%; object-fit: cover;">
-</div>
-
-
+<style>
+.circular-image {
+    border-radius: 50%;
+    width: 200px; /* Adjust the size as needed */
+    height: 200px; /* Adjust the size as needed */
+    object-fit: cover;
+}
+</style>
