@@ -1,6 +1,6 @@
 ### Hi there I'm Sara 👋🏻👩🏻‍💻
 
-<img src="https://github.com/sara-zeus/sara-zeus/raw/main/IMG_2535.jpg" width="200">
+<img src="https://github.com/sara-zeus/sara-zeus/raw/main/IMG_2535.jpg" width="500">
 
 
 A data engineer and scientist with an electrical engineering background, currently expanding skills at a Data Science Bootcamp. Passionate about data, seeking collaboration and guidance in the field.
