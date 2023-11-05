@@ -2,6 +2,18 @@
 
 <img src="https://github.com/sara-zeus/sara-zeus/raw/main/IMG_2535.jpg" width="500">
 
+<div style="background-color: #f2f2f2; padding: 20px;">
+    <div style="display: flex;">
+        <div style="flex: 1; text-align: center;">
+            <h2>My name is Sara</h2>
+        </div>
+        <div style="flex: 1; text-align: center;">
+            <img src="https://github.com/sara-zeus/sara-zeus/raw/main/IMG_2535.jpg" style="max-width: 100%;">
+        </div>
+    </div>
+</div>
+
+
 
 A data engineer and scientist with an electrical engineering background, currently expanding skills at a Data Science Bootcamp. Passionate about data, seeking collaboration and guidance in the field.
 
