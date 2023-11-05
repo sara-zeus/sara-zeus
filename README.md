@@ -1,17 +1,7 @@
 ### Hi there I'm Sara 👋🏻👩🏻‍💻
 
- <!DOCTYPE html>
-<html>
-<head>
-    <title>Sara's Page</title>
-</head>
-<body style="margin: 0; padding: 0;">
-    <div style="width: 100%; height: 100vh; display: flex; align-items: center; justify-content: center; background-color: #f2f2f2;">
-        <img src="https://github.com/sara-zeus/sara-zeus/blob/main/1938DD42-8290-49CE-8A27-BF45404B88D1.jpg" width="500">
-    </div>
-</body>
-</html>
-
+![Image](https://github.com/sara-zeus/sara-zeus/raw/main/1938DD42-8290-49CE-8A27-BF45404B88D1.jpg)
+  
 
 
 
