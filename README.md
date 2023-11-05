@@ -15,11 +15,5 @@
 
 <br> 
 
-<style>
-.circular-image {
-    border-radius: 50%;
-    width: 200px; /* Adjust the size as needed */
-    height: 200px; /* Adjust the size as needed */
-    object-fit: cover;
-}
-</style>
+[![Circular Image](https://github.com/sara-zeus/sara-zeus/raw/main/7A2DF9D2-B3CA-4E54-9DC3-951132006F3C%202.jpg)](https://github.com/sara-zeus)
+ 
