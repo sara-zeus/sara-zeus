@@ -15,5 +15,5 @@
 
 <br> 
 
-[![Circular Image](https://github.com/sara-zeus/sara-zeus/raw/main/7A2DF9D2-B3CA-4E54-9DC3-951132006F3C%202.jpg)](https://github.com/sara-zeus)
- 
+<img src="https://github.com/sara-zeus/sara-zeus/raw/main/7A2DF9D2-B3CA-4E54-9DC3-951132006F3C%202.jpg" width="300">
+
