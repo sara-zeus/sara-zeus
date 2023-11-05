@@ -1,42 +1,21 @@
-# Hello, World! 👋
+### Hi there 👋🏻👩🏻‍💻
 
-Welcome to my awesome profile! 🌟
+![Profile Picture](https://github.com/sara-zeus/sara-zeus/raw/main/7A2DF9D2-B3CA-4E54-9DC3-951132006F3C%202.jpg)
 
-I'm a passionate Developer & Explorer of the Tech Universe. Here's a glimpse of what you'll find in my repositories:
+**A data engineer and scientist with an electrical engineering background, currently expanding skills at a Data Science Bootcamp. Passionate about data, seeking collaboration and guidance in the field.**
 
-## 🔧 Technologies & Tools
-- JavaScript, Python, HTML, CSS
-- React, Node.js, Express
-- Git, GitHub Actions
+[Portfolio](https://sara-zeus.github.io) | [LinkedIn](https://www.linkedin.com/in/sarasalehi7/)
 
-## 🚀 Projects
-### Project 1: Amazing Project
-![Project 1 Image](project1_image_link_here)
+⚡ Fun Fact: Also a music producer and Capoeirista. Feel free to explore my repositories and connect for all things data! 🚀
 
-Description and details about Project 1...
+[![Portfolio](images/your-gif-filename.gif)](https://github.com/sara-zeus)
+Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about all things data. ☺️
 
-### Project 2: Super Cool Project
-![Project 2 Image](project2_image_link_here)
 
-Description and details about Project 2...
 
-## 🎨 Fun Facts
-- I love coding while listening to 🎵 music.
-- I'm a fan of 🎮 gaming when I need a break.
+<br> 
 
-## 📫 Let's Connect
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)
-- Check out my [Portfolio](https://your-portfolio-link)
-
-### 🌟 Fun Animation
-
-[![Giphy Animation](https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif)](https://github.com/your-username)
-
-### 🌐 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-
-### 🏆 Badges
-
-[![Made with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/your-username)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="450">
+</p>
+  
