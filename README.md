@@ -1,6 +1,6 @@
 ### Hi there 👋🏻👩🏻‍💻
 
-![Your Repository Stats](https://github-readme-stats.vercel.app/api?username=sara-zeus&show_icons=true)
+
 
 
 
