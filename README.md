@@ -1,5 +1,8 @@
 ### Hi there 👋🏻👩🏻‍💻
 
+![Profile Views](https://komarev.com/ghpvc/?username=sara-zeus)
+
+
 ![Profile Picture](https://github.com/sara-zeus/sara-zeus/raw/main/7A2DF9D2-B3CA-4E54-9DC3-951132006F3C%202.jpg)
 
 **A data engineer and scientist with an electrical engineering background, currently expanding skills at a Data Science Bootcamp. Passionate about data, seeking collaboration and guidance in the field.**
