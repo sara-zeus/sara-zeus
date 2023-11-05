@@ -1,17 +1,18 @@
 ### Hi there I'm Sara 👋🏻👩🏻‍💻
 
 <img src="https://github.com/sara-zeus/sara-zeus/raw/main/IMG_2535.jpg" width="500">
-
-<div style="background-color: #f2f2f2; padding: 20px;">
-    <div style="display: flex;">
-        <div style="flex: 1; text-align: center;">
-            <h2>My name is Sara</h2>
-        </div>
-        <div style="flex: 1; text-align: center;">
-            <img src="https://github.com/sara-zeus/sara-zeus/raw/main/IMG_2535.jpg" style="max-width: 100%;">
-        </div>
+ <!DOCTYPE html>
+<html>
+<head>
+    <title>Sara's Page</title>
+</head>
+<body style="margin: 0; padding: 0;">
+    <div style="width: 100%; height: 100vh; display: flex; align-items: center; justify-content: center; background-color: #f2f2f2;">
+        <img src="https://github.com/sara-zeus/sara-zeus/blob/main/1938DD42-8290-49CE-8A27-BF45404B88D1.jpg" width="500">
     </div>
-</div>
+</body>
+</html>
+
 
 
 
