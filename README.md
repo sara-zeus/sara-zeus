@@ -19,7 +19,7 @@ A data engineer and scientist with an electrical engineering background, current
 <br>
 
 
-![Profile Photo](https://github.com/your-username/your-repository/blob/main/IMG_2535.jpg)
+![Profile Photo](https://github.com/sara-zeus/sara-zeus/blob/main/IMG_2535.jpg)
   
 
 
