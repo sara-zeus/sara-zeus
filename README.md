@@ -1,4 +1,19 @@
-### Hi there I'm Sara 👋
+### Hi there I'm Sara 👋🏻👩🏻‍💻
+
+
+
+### Hi there, I'm Sara! 👋🏻👩🏻‍💻
+
+A data engineer and scientist with an electrical engineering background, currently expanding skills at a Data Science Bootcamp. Passionate about data, seeking collaboration and guidance in the field.
+
+[Portfolio](https://sara-zeus.github.io) | [LinkedIn](https://www.linkedin.com/in/sarasalehi7/)
+
+⚡ Fun Fact: Also a music producer and Capoeirista. Feel free to explore my repositories and connect for all things data! 🚀
+
+[![Portfolio](images/your-gif-filename.gif)](https://github.com/sara-zeus)
+
+
+
 
 A passionate data engineer and data scientist with a background in electrical engineering. Welcome to my GitHub profile!
 
