@@ -6,19 +6,19 @@
 
 ![Profile Picture](https://github.com/sara-zeus/sara-zeus/raw/main/7A2DF9D2-B3CA-4E54-9DC3-951132006F3C%202.jpg)
 
-## 👩🏻‍💻 What I'm Currently Doing
+## What I'm Currently Doing
 
 - 👩🏻‍💻 Working on a Data Science Bootcamp to expand my skills.
 - 📊 Passionate about data engineering and analytics.
 - 🌐 Seeking collaboration and guidance in the field.
 
-## 🚀 Who I Am
+## Who I Am
 
 - 🧬 Data engineer and scientist with an electrical engineering background.
 - 🎶 Also a music producer and Capoeirista.
 - ✈️ Have traveled to more than 50 countries, speak 4 languages, and visit Europe every year, staying for months.
 
-## 💬 Get in Touch
+## Get in Touch
 
 - 🌐 Explore my [Portfolio](https://sara-zeus.github.io).
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/sarasalehi7/).
