@@ -4,7 +4,7 @@
 
 
 
-![Profile Picture](profile.jpg)
+![Profile Picture](profile.JPG)
 
 ## What I'm Currently Doing
 
