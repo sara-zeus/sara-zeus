@@ -8,8 +8,8 @@
 
 ## What I'm Currently Doing
 
-- 👩🏻‍💻 Working on a Data Science Bootcamp to expand my skills.
-- 📊 Passionate about data engineering and analytics.
+- 👩🏻‍💻 Finished a Data Science Bootcamp to expand my skills.
+- 📊 Passionate about data science and data engineering.
 - 🌐 Seeking collaboration and guidance in the field.
 
 ## Who I Am
